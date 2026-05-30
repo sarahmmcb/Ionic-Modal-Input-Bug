@@ -1,0 +1,7 @@
+{
+  "name": "modal-input-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
